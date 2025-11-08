@@ -5,7 +5,7 @@
 
 ### Um pouco sobre mim 👇
 
-Meu nome é Vinícius Macêdo e sou um desenvolvedor Junior. Atualmente estou estudando Sistemas de Informação e buscando aprimorar minhas habilidades em linguagens de programação, atualmente focado em Java, C# e Python.
+Meu nome é Vinícius Macêdo e sou um desenvolvedor Junior. Atualmente estou estudando Sistemas de Informação e buscando aprimorar minhas habilidades em linguagens de programação, focado em Java, C# e Python.
 
 ### Tecnologias que uso 🧑🏻‍💻
 
