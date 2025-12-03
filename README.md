@@ -9,7 +9,7 @@ Meu nome é Vinícius Macêdo e sou um desenvolvedor Junior. Atualmente estou es
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Tec](https://skillicons.dev/icons?i=idea,vscode,github,unity,cursor)](https://skillicons.dev)
+[![My Tec](https://skillicons.dev/icons?i=idea,vscode,github,unity)](https://skillicons.dev)
 
 
 ### Linguagens que eu uso 💻
