@@ -16,9 +16,6 @@ Meu nome é Vinícius Macêdo e sou um desenvolvedor Junior. Atualmente estou es
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,py,spring,bootstrap,html,js,mysql,go)](https://skillicons.dev)
 
-### Status GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimaisced0&layout=donut-vertical)](https://github.com/vinimaisced0/github-readme-stats)
 
 ### Aprendendo no momento..
 - Cursando Sistemas de Informação na Unifacisa 💻
